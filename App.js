@@ -1,6 +1,6 @@
 import React from "react";
 import { Text,View, StyleSheet} from "react-native";
-import Component from "./src/screen/Component";
+import Component from "./src/components/Component";
 
 const App=()=>{
   return(<>
